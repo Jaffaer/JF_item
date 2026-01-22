@@ -3,8 +3,7 @@ simple usable custom items added some drug effects from https://github.com/it-sc
 
 
 ## Installation ##
-add ensure JF_item to server.cfg
-
+- add ensure JF_item to server.cfg
 
 
 ## Preview ## 
