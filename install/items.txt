@@ -1,0 +1,22 @@
+    ['tramadol_box'] = {
+		label = 'Tramadol',
+		weight = 500,
+		stack = false,
+		close = true,
+		description = 'Tram box.',
+	},
+    ['tramadol_karta'] = {
+		label = 'Tram karta',
+		weight = 10,
+		stack = true,
+		close = true,
+		description = 'Tram karta.',
+	},
+    ['tram_pills'] = {
+		label = 'Tramadol kapslar',
+		weight = 10,
+		stack = true,
+		close = true,
+		description = 'Tram kapslar.',
+	},
+}
