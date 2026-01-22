@@ -13,10 +13,13 @@
 		description = 'Tram karta.',
 	},
     ['tram_pills'] = {
-		label = 'Tramadol kapslar',
-		weight = 10,
-		stack = true,
-		close = true,
-		description = 'Tram kapslar.',
-	},
+        label = 'Tramadol kapslar',
+        weight = 10,
+        stack = true,
+        close = true,
+        description = 'Tram kapslar.',
+        server = {
+            export = 'JF_item.takeDrug'
+        }
+    },
 }
