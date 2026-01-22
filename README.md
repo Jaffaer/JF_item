@@ -12,8 +12,7 @@ ensure [qbx]
 ensure JF_item
 
 # Dependencys
-- qbx_core
-- qb-core
+- qbx_core or qb-core
 - ox_inventory
 - ox_lib
 
