@@ -17,7 +17,9 @@ ensure JF_item
 - ox_lib
 
 # Resmon
-<img width="494" height="27" alt="image" src="https://github.com/user-attachments/assets/deeaae3e-5152-4418-9e8e-161cfa80a5d9" />
+idle = <img width="494" height="27" alt="image" src="https://github.com/user-attachments/assets/deeaae3e-5152-4418-9e8e-161cfa80a5d9" />
+useing <img width="630" height="339" alt="image" src="https://github.com/user-attachments/assets/f5a76b12-004a-4f8c-8390-e21928630d99" />
+
 
 
 ## Preview ## 
