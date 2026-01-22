@@ -4,8 +4,11 @@ simple usable custom items added some drug effects from https://github.com/it-sc
 ## Installation ##
 - add ensure JF_item to server.cfg should look something like this
 ensure ox_lib
+
 ensure qbx_core
+
 ensure [qbx]
+
 ensure JF_item
 
 # Dependencys
