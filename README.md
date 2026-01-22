@@ -1,5 +1,5 @@
 ## JF_item ##
-simple usable custom items added drug effects from 
+simple usable custom items added some drug effects from https://github.com/it-scripts/it-drugs
 
 
 ## Installation ##
