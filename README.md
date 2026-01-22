@@ -1,5 +1,6 @@
 ## JF_item ##
-simple usable custom items, cutom props, custom anim added some drug effects from https://github.com/it-scripts/it-drugs
+simple usable custom items, cutom props, custom anim. Credit to https://github.com/it-scripts/it-drugs
+took some drug effects
 
 ## Installation ##
 - add ensure JF_item to server.cfg should look something like this
