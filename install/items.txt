@@ -1,0 +1,43 @@
+    -- JF_item
+    ['tramadol_box'] = {
+		label = 'Tramadol',
+		weight = 500,
+		stack = false,
+		close = true,
+		description = 'Tram box.',
+	},
+    ['tramadol_karta'] = {
+		label = 'Tram karta',
+		weight = 10,
+		stack = true,
+		close = true,
+		description = 'Tram karta.',
+	},
+    ['tram_pills'] = {
+        label = 'Tramadol kapslar',
+        weight = 10,
+        stack = true,
+        close = true,
+        description = 'Tram kapslar.',
+        server = {
+            export = 'JF_item.takeDrug'
+        }
+    },
+    ['lsd_papper'] = {
+		label = 'LSD',
+		weight = 10,
+		stack = false,
+		close = true,
+		description = 'LSD.',
+	},
+    ['lsd_tabs'] = {
+        label = 'LSD',
+        weight = 10,
+        stack = true,
+        close = true,
+        description = 'LSD.',
+        server = {
+            export = 'JF_item.takeDrug'
+        }
+    },
+}
